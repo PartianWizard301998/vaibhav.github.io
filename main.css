@@ -1,0 +1,58 @@
+body{
+  background-color: #D3E4CD
+}
+
+img{
+  height: 200px;
+  width: 200px;
+  margin-top: 20px;
+
+}
+
+h1{
+  color: #519259;
+}
+
+#main_div{
+
+  height: 250px;
+}
+
+#main_div2{
+  height: 400px;
+}
+
+#photo_dev{
+  float: left;
+  width: 20%;
+  height: 100%;
+}
+
+#bio_dev{
+  margin-left: 10px;
+  margin-top: 40px;
+  float:right;
+  width: 75%;
+  height: 80%;
+}
+
+#intro{
+margin-left: 5px;
+line-height: 25px;
+}
+
+button{
+border-radius: 10px;
+height: 30px;
+width: 160px;
+text-shadow: 2px;
+background-color: #D8B6A4;
+}
+
+hr{
+  color: #B91646;
+}
+
+.maintag{
+  text-decoration-style: wavy;
+}
